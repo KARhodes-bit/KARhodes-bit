@@ -7,7 +7,7 @@ Building projects that enhance security and privacy
 
 🛠️ Skills & Tools
 Programming: Python, C#
-Cybersecurity tools: AWD
+Cybersecurity tools: AWD, Terraform
 Certifications: Currently persuing CompTIA Network+
 
 🚀 What I'm Working On
